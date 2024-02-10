@@ -10,3 +10,9 @@ step 6 run these commands
 git add .
 git commit -m "commit 1"  #### change the number 1 into the current next number when updating
 git push origin main
+
+how to make new brach and upload there
+
+step 1 make a branch in github website 
+
+step 2 git checkout -b branch1
