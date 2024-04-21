@@ -15,15 +15,17 @@ step 4 copy the contents of the clone folder and paste it into the inside of the
 step 5 inside the folder of the unity project file run git bash 
 
 step 6 run these commands 
-
 ```bash
 git add .
-
 git commit -m "commit 1"  #### change the number 1 into the current next number when updating
-
 git push origin main
-
 ```
+```
+git add .
+git commit -m "commit 1"  #### change the number 1 into the current next number when updating
+git push origin main
+```
+
 # How to make a new branch and upload it there
 
 step 1 make a branch in GitHub website 
@@ -33,7 +35,6 @@ step 2 run the git clone
 step 3 copy the contents of the clone folder and place it into the updated project folder contents:(.gitignore, readme, git)
 
 step 4 run these
-
 ```bash
 git checkout branch1
 git status
@@ -41,7 +42,6 @@ git add .
 git status
 git commit -m "branch1"
 git push origin head
-
 ```
 
 step 5 your done check it at GitHub
