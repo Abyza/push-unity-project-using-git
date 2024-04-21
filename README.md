@@ -34,7 +34,7 @@ git add .
 git status
 git commit -m "branch1"
 git push origin head
-step 5 your done check it at github
+step 5 your done check it at GitHub
 
 # How to clone a branch
-git clone -b branch_name https://github.com/username/repository.git
+git clone -b branch_name (URL github repo)
