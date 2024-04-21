@@ -1,15 +1,16 @@
 # unity-project-file-using-git
+make sure you have a personal access token so you can clone a repo
 
 # How to upload a unity project file on GitHub using git
 
 step 1 Make the GitHub repo
-make sure you enable the read me and gitignore choose unity
+make sure you enable the readme and gitignore and choose unity
 
 step 2 make the project in unity
-make sure you have a personal acccess token so you can clone a repo
-step 3 clone the github repo in any folder (git clone "urlof github repo")
 
-step 4 copy the contents of the clone folder paste it into the inside of the project file of unity
+step 3 clone the GitHub repo in any folder (git clone "URL of GitHub repo")
+
+step 4 copy the contents of the clone folder and paste it into the inside of the project file of unity
 
 step 5 inside the folder of the unity project file run git bash 
 
@@ -20,11 +21,11 @@ git push origin main
 
 # How to make a new branch and upload it there
 
-step 1 make a branch in github website 
+step 1 make a branch in GitHub website 
 
 step 2 run the git clone 
 
-step 3 copy contents of clone folder and place it into the updated project folder contents:(.gitignore, readme, git)
+step 3 copy the contents of the clone folder and place it into the updated project folder contents:(.gitignore, readme, git)
 
 step 4 run these
 git checkout branch1
