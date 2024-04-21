@@ -20,11 +20,6 @@ git add .
 git commit -m "commit 1"  #### change the number 1 into the current next number when updating
 git push origin main
 ```
-```
-git add .
-git commit -m "commit 1"  #### change the number 1 into the current next number when updating
-git push origin main
-```
 
 # How to make a new branch and upload it there
 
