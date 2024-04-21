@@ -17,3 +17,15 @@ how to make new brach and upload there
 step 1 make a branch in github website 
 
 step 2 git checkout -b branch1
+
+
+
+git checkout branch1
+git status
+git add . 
+git status
+git commit -m "branch1"
+git push origin head
+
+
+
