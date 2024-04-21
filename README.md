@@ -2,7 +2,7 @@
 
 # How to upload a unity project file on GitHub using git
 
-step 1. Make the GitHub repo
+step 1 Make the GitHub repo
 make sure you enable the read me and gitignore choose unity
 
 step 2 make the project in unity
@@ -22,13 +22,11 @@ git push origin main
 
 step 1 make a branch in github website 
 
-
 step 2 run the git clone 
 
 step 3 copy contents of clone folder and place it into the updated project folder contents:(.gitignore, readme, git)
 
 step 4 run these
-
 git checkout branch1
 git status
 git add . 
