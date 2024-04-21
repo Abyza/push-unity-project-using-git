@@ -42,4 +42,5 @@ git push origin head
 step 5 your done check it at GitHub
 
 # How to clone a branch
+```bash
 git clone -b branch_name (URL GitHub repo)
