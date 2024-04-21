@@ -16,9 +16,12 @@ how to make new brach and upload there
 
 step 1 make a branch in github website 
 
-step 2 git checkout -b branch1
 
+step 2 run the git clone 
 
+step 3 copy contents of clone folder and place it into the updated project folder contents:(.gitignore, readme, git)
+
+step 4 run these
 
 git checkout branch1
 git status
@@ -26,6 +29,7 @@ git add .
 git status
 git commit -m "branch1"
 git push origin head
+step 5 your done check it at github
 
 
 
