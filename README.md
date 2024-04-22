@@ -45,3 +45,12 @@ step 5 your done check it at GitHub
 ```bash
 git clone -b branch_name (URL GitHub repo)
 ```
+
+## make a new branch
+```bash
+git checkout -b <new_branch_name>
+```
+## clone only 1 branch 
+```bash
+git clone --single-branch --branch main <repository_url>
+````
